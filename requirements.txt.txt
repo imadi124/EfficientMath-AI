@@ -1,0 +1,18 @@
+# Core ML & Fine-tuning
+unsloth
+torch
+transformers
+datasets
+peft
+trl
+accelerate
+
+# Deployment & Inference
+gradio
+huggingface_hub
+llama-cpp-python
+
+# Utilities
+pandas
+numpy
+tqdm
